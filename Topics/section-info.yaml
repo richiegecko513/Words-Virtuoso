@@ -1,0 +1,42 @@
+content:
+- Overview of the basic program
+- Values and variables
+- Standard output
+- Invoking functions
+- Standard input
+- Integers in action
+- Relational operators
+- If expression
+- Repeating blocks
+- Equality
+- Ranges
+- For loop and ranges
+- Work with MutableLists
+- For loop and lists
+- Working with strings
+- Getting substrings
+- Processing strings
+- Regexps
+- Regexps in use
+- Commonly Used Regex
+- Declaring functions
+- Errors in programs
+- Hierarchy of exceptions
+- Taming exceptions
+- While loops
+- The try-catch statement
+- Functions as objects
+- Lambda expressions
+- When expression
+- Set
+- Mutable Set
+- Arrays
+- String arrays
+- For loop and arrays
+- The try-catch-finally statement
+- Jumps and returns
+- Functional decomposition
+- Default arguments
+- Named arguments
+- The main() function
+- Random

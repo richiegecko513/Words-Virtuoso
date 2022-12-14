@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun findByIndex(names: Set<String>): String {
+        // write here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/20633#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 07 Dec 2022 00:24:45 UTC
+record: -1

@@ -1,0 +1,23 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun main() {
+        // put your code here
+
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4552#comment
+status: Failed
+feedback:
+  message: "Failed test #1 of 3. Runtime error\n\nThis is a sample test from the problem\
+    \ statement!\n\nTest input:\nJohn Smith 30\nCorrect output:\nJ. Smith, 30 years\
+    \ old\n\nYour code output:\n\n\nError:\nException in thread \"main\" java.lang.NullPointerException\n\
+    \tat MainKt.main(main.kt:3)\n\tat MainKt.main(main.kt)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native\
+    \ Method)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\
+    \tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\
+    \tat java.base/java.lang.reflect.Method.invoke(Method.java:566)\n\tat org.jetbrains.kotlin.runner.AbstractRunner.run(runners.kt:70)\n\
+    \tat org.jetbrains.kotlin.runner.Main.run(Main.kt:188)\n\tat org.jetbrains.kotlin.runner.Main.main(Main.kt:198)\n"
+  time: Sun, 04 Dec 2022 23:49:01 UTC
+record: -1
